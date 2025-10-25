@@ -1,6 +1,5 @@
 === Cores Pay ===
-Contributors: yourname
-Donate link: https://example.com/donate
+Contributors: zARNIGOR
 Tags: payment, invoice, shortcode, button, checkout
 Requires at least: 5.0
 Tested up to: 6.4
